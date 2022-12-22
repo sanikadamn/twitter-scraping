@@ -1,7 +1,7 @@
 import string
 import tweepy
 
-bearer_token="AAAAAAAAAAAAAAAAAAAAADR%2BYwEAAAAAgTtESw3ET85pEAOEYdoF115Skzs%3DBtYJH2YyuncBgQZ0QsXtErnTtbYUugJQjkOJT4YPoBDLbTLqhK"
+bearer_token=" "
 
 obj=tweepy.Client(bearer_token)
 
